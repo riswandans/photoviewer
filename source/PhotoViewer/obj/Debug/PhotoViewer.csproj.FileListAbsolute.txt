@@ -1,0 +1,20 @@
+c:\users\riswanda\documents\visual studio 2015\Projects\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.exe.config
+c:\users\riswanda\documents\visual studio 2015\Projects\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.exe
+c:\users\riswanda\documents\visual studio 2015\Projects\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.pdb
+c:\users\riswanda\documents\visual studio 2015\Projects\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.Form1.resources
+c:\users\riswanda\documents\visual studio 2015\Projects\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.Properties.Resources.resources
+c:\users\riswanda\documents\visual studio 2015\Projects\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.csproj.GenerateResource.Cache
+c:\users\riswanda\documents\visual studio 2015\Projects\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.exe
+c:\users\riswanda\documents\visual studio 2015\Projects\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.pdb
+D:\Source code\C#\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.exe.config
+D:\Source code\C#\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.exe
+D:\Source code\C#\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.pdb
+D:\Source code\C#\PhotoViewer\source\PhotoViewer\bin\Debug\PhotoViewer.exe.config
+D:\Source code\C#\PhotoViewer\source\PhotoViewer\obj\Debug\PhotoViewer.exe
+D:\Source code\C#\PhotoViewer\source\PhotoViewer\obj\Debug\PhotoViewer.pdb
+D:\Source code\C#\PhotoViewer\source\PhotoViewer\obj\Debug\PhotoViewer.csprojResolveAssemblyReference.cache
+D:\Source code\C#\PhotoViewer\source\PhotoViewer\obj\Debug\PhotoViewer.Form1.resources
+D:\Source code\C#\PhotoViewer\source\PhotoViewer\obj\Debug\PhotoViewer.Properties.Resources.resources
+D:\Source code\C#\PhotoViewer\source\PhotoViewer\obj\Debug\PhotoViewer.csproj.GenerateResource.Cache
+D:\Source code\C#\PhotoViewer\source\PhotoViewer\bin\Debug\PhotoViewer.exe
+D:\Source code\C#\PhotoViewer\source\PhotoViewer\bin\Debug\PhotoViewer.pdb
